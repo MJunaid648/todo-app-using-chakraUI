@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+"Introducing my another project, a user-friendly and feature-rich to-do web app built using ReactJS. The app allows users to easily manage and prioritize their tasks, with features such as task creation and deletion. The interface is clean and intuitive having two, day and night themes for all devices, making it easy for users to stay organized and on top of their to-do list. The app also includes a responsive design, making it accessible on any device. Built using the powerful ReactJS framework, this to-do app is both fast and efficient, and it is a great example of my skills in web development."
