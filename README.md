@@ -1,5 +1,7 @@
 # Todo-app-using-chakraUI
 Welcome to the Todo-list React application! This application allows users to make and maintain a list for their todos. The application uses the Chakra-UI library for styling. It also has dark and light themes toggling feature.
+## Live at
+https://junaids-todo-list.netlify.app/
 
 ## Installation
 To run this application, follow the below steps:
